@@ -1,0 +1,24 @@
+# Day 6: End-to-End ML Engineering & Pipelines
+# Pinned versions verified for classroom reproducibility (Python 3.11 / 3.12)
+
+# Interactive Notebook Environment
+jupyterlab==4.3.5
+ipykernel==6.29.5
+nbformat==5.10.4
+nbclient==0.10.2
+
+# Core Scientific & ML Stack
+numpy==2.1.3
+pandas==2.2.3
+scikit-learn==1.6.1
+joblib==1.4.2
+
+# Visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# Configuration, Schema Validation & Testing
+pyyaml==6.0.2
+pydantic==2.10.6
+python-dotenv==1.0.1
+pytest==8.3.4
