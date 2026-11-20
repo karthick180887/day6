@@ -79,3 +79,80 @@ print("Ingestion Metadata:")
 print(json.dumps(ingest_meta, indent=2))
 print("\nCleaned plan_tier values:")
 print(ingested_df["plan_tier"].value_counts(dropna=False))
+===========================================================================================================================
+REQUIRED_COLUMNS = [
+    "customer_id", "age", "plan_tier", "country", "payment_method",
+    "auto_pay", "tenure_months", "monthly_charges", "churned",
+]
+ALLOWED_PLANS = {"basic", "standard", "premium"}
+ALLOWED_COUNTRIES = {"US", "IN", "UK", "CA", "DE"}
+
+
+def validate_customer_dataframe(df: pd.DataFrame, max_missing_ratio: float = 0.15) -> dict:
+    """Run schema and data-quality checks. Returns a structured validation report."""
+    errors = []
+    warnings = []
+
+    # Check 1: Required columns
+    missing_cols = [c for c in REQUIRED_COLUMNS if c not in df.columns]
+    if missing_cols:
+        errors.append(f"Missing required columns: {missing_cols}")
+        return {"passed": False, "row_count": len(df), "errors": errors, "warnings": warnings}
+
+    # Check 2: Primary key uniqueness & non-null
+    null_ids = int(df["customer_id"].isna().sum())
+    dup_ids = int(df["customer_id"].duplicated().sum())
+    if null_ids > 0:
+        errors.append(f"Found {null_ids} null customer_id values.")
+    if dup_ids > 0:
+        errors.append(f"Found {dup_ids} duplicate customer_id values.")
+
+    # Check 3: Missingness threshold per column
+    for col in REQUIRED_COLUMNS:
+        ratio = float(df[col].isna().mean())
+        if ratio > max_missing_ratio:
+            errors.append(f"Column '{col}' missing ratio {ratio:.1%} exceeds limit {max_missing_ratio:.1%}.")
+        elif ratio > 0:
+            warnings.append(f"Column '{col}' has {ratio:.1%} missing values (will be imputed in pipeline).")
+
+    # Check 4: Numeric range checks (ignoring NaNs which are checked above)
+    bad_age = df["age"].dropna().pipe(lambda s: ~s.between(18, 100)).sum()
+    if bad_age > 0:
+        errors.append(f"Found {int(bad_age)} rows with age outside [18, 100].")
+
+    bad_tenure = (df["tenure_months"].dropna() < 0).sum()
+    if bad_tenure > 0:
+        errors.append(f"Found {int(bad_tenure)} rows with negative tenure_months.")
+
+    bad_charges = df["monthly_charges"].dropna().pipe(lambda s: ~s.between(0, 100)).sum()
+    if bad_charges > 0:
+        errors.append(f"Found {int(bad_charges)} rows with monthly_charges outside [0, 100].")
+
+    # Check 5: Allowed categorical values
+    bad_plans = set(df["plan_tier"].dropna().unique()) - ALLOWED_PLANS
+    if bad_plans:
+        errors.append(f"Unexpected plan_tier values: {sorted(bad_plans)}")
+
+    bad_countries = set(df["country"].dropna().unique()) - ALLOWED_COUNTRIES
+    if bad_countries:
+        errors.append(f"Unexpected country values: {sorted(bad_countries)}")
+
+    # Check 6: Target label integrity
+    bad_targets = set(df["churned"].dropna().unique()) - {0, 1}
+    if bad_targets:
+        errors.append(f"Invalid churned target values: {sorted(bad_targets)}")
+
+    return {
+        "passed": len(errors) == 0,
+        "row_count": int(len(df)),
+        "error_count": len(errors),
+        "errors": errors,
+        "warnings": warnings,
+    }
+
+
+clean_report = validate_customer_dataframe(ingested_df)
+print("=== Validation Report: Clean Ingested Dataset ===")
+print(json.dumps(clean_report, indent=2))
+assert clean_report["passed"] is True
+
