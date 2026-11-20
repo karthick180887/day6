@@ -46,4 +46,19 @@ def print_tree(root: Path, prefix: str = ""):
 
 print(f"Scaffolded ML project at: {PROJECT_ROOT}\n")
 print_tree(PROJECT_ROOT)
+======================================================================================================
+## Part 2: Mapping Every ML Lifecycle Stage to Its Code Owner
+
+A clean project structure mirrors the **ML Lifecycle** stage by stage:
+
+| Lifecycle Stage | Folder | Responsibility | Day 6 Notebook |
+| --- | --- | --- | --- |
+| 1. Problem Framing & Config | `configs/` | Business KPI, target definition, config parameters | Notebook 01 & 08 |
+| 2. Data Ingestion | `src/ingestion/` | Pull CSV/JSON/SQL sources into immutable raw snapshot | Notebook 02 & 03 |
+| 3. Data Validation | `src/validation/` | Check schema, nulls, ranges, categories before training | Notebook 02 & 03 |
+| 4. Feature Engineering | `src/features/` | Transform raw columns into leak-free ML features | Notebook 04 & 05 |
+| 5. Model Training & Testing | `src/training/` | Split, cross-validate, evaluate on unseen test set | Notebook 06 & 07 |
+| 6. Artifact Packaging & Inference | `src/inference/` & `artifacts/` | Save `Pipeline` + metadata, verify prediction contract | Notebook 06 & 07 |
+| 7. Tracking, Config & Monitoring | `artifacts/reports/` | Log experiments, ensure reproducibility, monitor drift (Day 7!) | Notebook 08 & 09 |
+===================================
 
