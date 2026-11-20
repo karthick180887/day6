@@ -168,5 +168,36 @@ report_path = Path("artifacts/validation_report_demo.json")
 report_path.parent.mkdir(parents=True, exist_ok=True)
 report_path.write_text(json.dumps(corrupted_report, indent=2), encoding="utf-8")
 print(f"\nSaved audit report to: {report_path}")
+==============================================================================================================
+class CustomerRecordSchema(BaseModel):
+    customer_id: str
+    age: float = Field(ge=18, le=100)
+    plan_tier: str = Field(pattern="^(basic|standard|premium)$")
+    tenure_months: float = Field(ge=0)
+    monthly_charges: float = Field(ge=0, le=100)
+
+
+good_payload = {
+    "customer_id": "CUST-50001",
+    "age": 31,
+    "plan_tier": "standard",
+    "tenure_months": 14,
+    "monthly_charges": 15.99,
+}
+bad_payload = {
+    "customer_id": "CUST-50002",
+    "age": -5,
+    "plan_tier": "ultra_vip",
+    "tenure_months": 14,
+    "monthly_charges": 999.0,
+}
+
+print("Valid payload accepted:", CustomerRecordSchema(**good_payload))
+print("\nTesting invalid payload:")
+try:
+    CustomerRecordSchema(**bad_payload)
+except ValidationError as exc:
+    for err in exc.errors():
+        print(f"  - Field '{err['loc'][0]}': {err['msg']} (got {err['input']!r})")
 
 
