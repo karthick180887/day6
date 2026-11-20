@@ -60,5 +60,34 @@ A clean project structure mirrors the **ML Lifecycle** stage by stage:
 | 5. Model Training & Testing | `src/training/` | Split, cross-validate, evaluate on unseen test set | Notebook 06 & 07 |
 | 6. Artifact Packaging & Inference | `src/inference/` & `artifacts/` | Save `Pipeline` + metadata, verify prediction contract | Notebook 06 & 07 |
 | 7. Tracking, Config & Monitoring | `artifacts/reports/` | Log experiments, ensure reproducibility, monitor drift (Day 7!) | Notebook 08 & 09 |
-===================================
+=====================================================================================================================================================
+# Let's write a tiny reusable Python module into our scaffolded project and import it!
+module_code = '''
+from pathlib import Path
+import pandas as pd
+
+def summarize_dataset(csv_path: str | Path) -> dict:
+    df = pd.read_csv(csv_path)
+    return {
+        "rows": int(len(df)),
+        "columns": int(df.shape[1]),
+        "missing_cells": int(df.isna().sum().sum()),
+        "duplicate_rows": int(df.duplicated().sum()),
+    }
+'''
+
+helper_file = PROJECT_ROOT / "src/ingestion/inspector.py"
+helper_file.write_text(module_code.strip() + "\n", encoding="utf-8")
+
+# Import and run the modular helper cleanly
+import sys
+if str(PROJECT_ROOT.resolve()) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT.resolve()))
+
+from src.ingestion.inspector import summarize_dataset
+
+summary = summarize_dataset("data/customers_raw.csv")
+print("Output from modular src.ingestion.inspector.summarize_dataset():")
+print(json.dumps(summary, indent=2))
+
 
