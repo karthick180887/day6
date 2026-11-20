@@ -155,4 +155,18 @@ clean_report = validate_customer_dataframe(ingested_df)
 print("=== Validation Report: Clean Ingested Dataset ===")
 print(json.dumps(clean_report, indent=2))
 assert clean_report["passed"] is True
+=============================================================================================================
+corrupted_df = pd.read_csv(CORRUPTED_PATH)
+corrupted_report = validate_customer_dataframe(corrupted_df)
+
+print("=== Validation Report: Corrupted Batch ===")
+print(json.dumps(corrupted_report, indent=2))
+assert corrupted_report["passed"] is False
+
+# Save validation report artifact for auditability
+report_path = Path("artifacts/validation_report_demo.json")
+report_path.parent.mkdir(parents=True, exist_ok=True)
+report_path.write_text(json.dumps(corrupted_report, indent=2), encoding="utf-8")
+print(f"\nSaved audit report to: {report_path}")
+
 
