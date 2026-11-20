@@ -23,3 +23,19 @@ df = load_clean_streampulse()
 print("Merged dataset shape:", df.shape)
 print("Missing values before preprocessing:")
 print(df.isna().sum()[df.isna().sum() > 0])
+====================================================================================================================================
+# Small synthetic illustration of leakage when test distribution has higher values
+rng = np.random.default_rng(42)
+X_demo = np.concatenate([rng.normal(10, 2, size=80), rng.normal(25, 2, size=20)]).reshape(-1, 1)
+
+# WRONG: fit scaler on ALL data before splitting
+leaky_scaler = StandardScaler().fit(X_demo)
+
+# RIGHT: split FIRST, then fit scaler ONLY on training fold
+X_tr, X_te = X_demo[:80], X_demo[80:]
+clean_scaler = StandardScaler().fit(X_tr)
+
+print(f"Leaky scaler mean (peeked at test!): {leaky_scaler.mean_[0]:.2f}")
+print(f"Clean scaler mean (train only)     : {clean_scaler.mean_[0]:.2f}")
+print("\nRule: ALWAYS split train/test FIRST. Call .fit() ONLY on X_train, and .transform() on X_test!")
+
