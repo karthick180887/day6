@@ -56,5 +56,52 @@ df_fe = add_domain_features(df)
 check_cols = ["charges_per_login", "tickets_per_tenure_month", "watch_hours_per_login", "is_new_customer"]
 print("Mean engineered features grouped by churned (0 = Retained, 1 = Churned):")
 df_fe.groupby("churned")[check_cols].mean().round(3)
+==========================================================================================================================================
+NUMERIC_FEATURES = [
+    "age", "tenure_months", "monthly_charges",
+    "login_days_30d", "watch_hours_30d", "support_tickets_30d",
+    "auto_pay", "charges_per_login", "tickets_per_tenure_month",
+    "watch_hours_per_login", "is_new_customer",
+]
+CATEGORICAL_FEATURES = ["plan_tier", "country", "payment_method", "last_active_device"]
+
+X = df_fe[NUMERIC_FEATURES + CATEGORICAL_FEATURES]
+y = df_fe["churned"]
+
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.20, random_state=42, stratify=y
+)
+
+numeric_transformer = Pipeline(
+    steps=[
+        ("imputer", SimpleImputer(strategy="median")),
+        ("scaler", StandardScaler()),
+    ]
+)
+
+categorical_transformer = Pipeline(
+    steps=[
+        ("imputer", SimpleImputer(strategy="most_frequent")),
+        ("onehot", OneHotEncoder(handle_unknown="ignore", sparse_output=False)),
+    ]
+)
+
+preprocessor = ColumnTransformer(
+    transformers=[
+        ("num", numeric_transformer, NUMERIC_FEATURES),
+        ("cat", categorical_transformer, CATEGORICAL_FEATURES),
+    ]
+)
+
+# Fit ONLY on X_train, then transform both train and test
+X_train_processed = preprocessor.fit_transform(X_train)
+X_test_processed = preprocessor.transform(X_test)
+
+feature_names = preprocessor.get_feature_names_out()
+print(f"Original columns    : {X_train.shape[1]}")
+print(f"Transformed features: {X_train_processed.shape[1]}")
+print(f"Any NaNs remaining? : train={np.isnan(X_train_processed).any()}, test={np.isnan(X_test_processed).any()}")
+print("\nSample transformed feature names:", list(feature_names[:10]))
+
 
 
