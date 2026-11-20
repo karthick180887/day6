@@ -54,4 +54,13 @@ for p in expected_files:
 config_path = Path("configs/train_config.yaml")
 assert config_path.exists(), f"Missing config: {config_path}"
 print(f"  [PASS] Found {config_path} ({config_path.stat().st_size:,} bytes)")
+==========================================================================================================================
+# Verify write access to artifacts/ folder
+artifacts_dir = Path("artifacts")
+artifacts_dir.mkdir(parents=True, exist_ok=True)
+probe_file = artifacts_dir / ".smoke_test_ok"
+probe_file.write_text("Day 6 environment check passed!\n", encoding="utf-8")
+assert probe_file.exists()
+print(f"  [PASS] Write check succeeded at {probe_file.resolve()}")
+print("\nYou are 100% ready for Day 6! Raise your green sticky note.")
 
