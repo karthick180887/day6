@@ -1,0 +1,7009 @@
+[
+  {
+    "customer_id": "CUST-10001",
+    "login_days_30d": 26,
+    "watch_hours_30d": 33.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10002",
+    "login_days_30d": 24,
+    "watch_hours_30d": 51.4,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10003",
+    "login_days_30d": 16,
+    "watch_hours_30d": 13.6,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10004",
+    "login_days_30d": 17,
+    "watch_hours_30d": 28.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10005",
+    "login_days_30d": 19,
+    "watch_hours_30d": 25.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10006",
+    "login_days_30d": 24,
+    "watch_hours_30d": 21.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10007",
+    "login_days_30d": 30,
+    "watch_hours_30d": 18.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10008",
+    "login_days_30d": 20,
+    "watch_hours_30d": 21.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10009",
+    "login_days_30d": 30,
+    "watch_hours_30d": 21.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10010",
+    "login_days_30d": 23,
+    "watch_hours_30d": 29.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10011",
+    "login_days_30d": 16,
+    "watch_hours_30d": 32.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10012",
+    "login_days_30d": 23,
+    "watch_hours_30d": 43.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10013",
+    "login_days_30d": 30,
+    "watch_hours_30d": 69.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10014",
+    "login_days_30d": 30,
+    "watch_hours_30d": 41.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10015",
+    "login_days_30d": 28,
+    "watch_hours_30d": 52.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10016",
+    "login_days_30d": 17,
+    "watch_hours_30d": 30.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10017",
+    "login_days_30d": 16,
+    "watch_hours_30d": 15.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10018",
+    "login_days_30d": 23,
+    "watch_hours_30d": 26.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10019",
+    "login_days_30d": 28,
+    "watch_hours_30d": 43.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10020",
+    "login_days_30d": 20,
+    "watch_hours_30d": 40.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10021",
+    "login_days_30d": 22,
+    "watch_hours_30d": 31.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10022",
+    "login_days_30d": 19,
+    "watch_hours_30d": 19.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10023",
+    "login_days_30d": 17,
+    "watch_hours_30d": 40.6,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10024",
+    "login_days_30d": 17,
+    "watch_hours_30d": 13.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10025",
+    "login_days_30d": 20,
+    "watch_hours_30d": 46.4,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10026",
+    "login_days_30d": 30,
+    "watch_hours_30d": 61.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10027",
+    "login_days_30d": 18,
+    "watch_hours_30d": 38.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10028",
+    "login_days_30d": 17,
+    "watch_hours_30d": 34.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10029",
+    "login_days_30d": 12,
+    "watch_hours_30d": 11.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10030",
+    "login_days_30d": 21,
+    "watch_hours_30d": 36.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10031",
+    "login_days_30d": 26,
+    "watch_hours_30d": 51.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10032",
+    "login_days_30d": 29,
+    "watch_hours_30d": 56.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10033",
+    "login_days_30d": 20,
+    "watch_hours_30d": 21.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10034",
+    "login_days_30d": 22,
+    "watch_hours_30d": 20.4,
+    "support_tickets_30d": 4,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10035",
+    "login_days_30d": 18,
+    "watch_hours_30d": 21.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10036",
+    "login_days_30d": 21,
+    "watch_hours_30d": 30.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10037",
+    "login_days_30d": 21,
+    "watch_hours_30d": 34.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10038",
+    "login_days_30d": 19,
+    "watch_hours_30d": 40.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10039",
+    "login_days_30d": 21,
+    "watch_hours_30d": 41.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10040",
+    "login_days_30d": 20,
+    "watch_hours_30d": 36.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10041",
+    "login_days_30d": 17,
+    "watch_hours_30d": 18.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10042",
+    "login_days_30d": 15,
+    "watch_hours_30d": 21.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10043",
+    "login_days_30d": 30,
+    "watch_hours_30d": 36.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10044",
+    "login_days_30d": 30,
+    "watch_hours_30d": 30.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10045",
+    "login_days_30d": 11,
+    "watch_hours_30d": 6.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10046",
+    "login_days_30d": 10,
+    "watch_hours_30d": 12.1,
+    "support_tickets_30d": 4,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10047",
+    "login_days_30d": 13,
+    "watch_hours_30d": 13.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10048",
+    "login_days_30d": 19,
+    "watch_hours_30d": 31.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10049",
+    "login_days_30d": 24,
+    "watch_hours_30d": 17.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10050",
+    "login_days_30d": 23,
+    "watch_hours_30d": 25.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10051",
+    "login_days_30d": 17,
+    "watch_hours_30d": 11.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10052",
+    "login_days_30d": 22,
+    "watch_hours_30d": 38.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10053",
+    "login_days_30d": 11,
+    "watch_hours_30d": 17.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10054",
+    "login_days_30d": 17,
+    "watch_hours_30d": 20.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10055",
+    "login_days_30d": 20,
+    "watch_hours_30d": 17.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10056",
+    "login_days_30d": 8,
+    "watch_hours_30d": 18.6,
+    "support_tickets_30d": 3,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10057",
+    "login_days_30d": 11,
+    "watch_hours_30d": 18.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10058",
+    "login_days_30d": 9,
+    "watch_hours_30d": 16.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10059",
+    "login_days_30d": 25,
+    "watch_hours_30d": 38.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10060",
+    "login_days_30d": 20,
+    "watch_hours_30d": 41.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10061",
+    "login_days_30d": 23,
+    "watch_hours_30d": 50.9,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10062",
+    "login_days_30d": 6,
+    "watch_hours_30d": 7.7,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10063",
+    "login_days_30d": 8,
+    "watch_hours_30d": 14.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10064",
+    "login_days_30d": 22,
+    "watch_hours_30d": 22.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10065",
+    "login_days_30d": 0,
+    "watch_hours_30d": 0.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10066",
+    "login_days_30d": 27,
+    "watch_hours_30d": 35.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10067",
+    "login_days_30d": 7,
+    "watch_hours_30d": 4.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10068",
+    "login_days_30d": 24,
+    "watch_hours_30d": 55.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10069",
+    "login_days_30d": 12,
+    "watch_hours_30d": 26.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10070",
+    "login_days_30d": 25,
+    "watch_hours_30d": 28.1,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10071",
+    "login_days_30d": 30,
+    "watch_hours_30d": 71.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10072",
+    "login_days_30d": 0,
+    "watch_hours_30d": 0.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10073",
+    "login_days_30d": 21,
+    "watch_hours_30d": 29.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10074",
+    "login_days_30d": 6,
+    "watch_hours_30d": 12.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10075",
+    "login_days_30d": 21,
+    "watch_hours_30d": 24.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10076",
+    "login_days_30d": 18,
+    "watch_hours_30d": 25.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10077",
+    "login_days_30d": 20,
+    "watch_hours_30d": 36.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10078",
+    "login_days_30d": 10,
+    "watch_hours_30d": 8.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10079",
+    "login_days_30d": 22,
+    "watch_hours_30d": 29.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10080",
+    "login_days_30d": 7,
+    "watch_hours_30d": 8.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10081",
+    "login_days_30d": 28,
+    "watch_hours_30d": 50.9,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10082",
+    "login_days_30d": 13,
+    "watch_hours_30d": 11.0,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10083",
+    "login_days_30d": 7,
+    "watch_hours_30d": 7.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10084",
+    "login_days_30d": 27,
+    "watch_hours_30d": 50.8,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10085",
+    "login_days_30d": 17,
+    "watch_hours_30d": 15.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10086",
+    "login_days_30d": 30,
+    "watch_hours_30d": 40.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10087",
+    "login_days_30d": 27,
+    "watch_hours_30d": 50.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10088",
+    "login_days_30d": 12,
+    "watch_hours_30d": 23.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10089",
+    "login_days_30d": 16,
+    "watch_hours_30d": 12.3,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10090",
+    "login_days_30d": 18,
+    "watch_hours_30d": 38.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10091",
+    "login_days_30d": 29,
+    "watch_hours_30d": 55.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10092",
+    "login_days_30d": 20,
+    "watch_hours_30d": 24.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10093",
+    "login_days_30d": 20,
+    "watch_hours_30d": 39.5,
+    "support_tickets_30d": 5,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10094",
+    "login_days_30d": 18,
+    "watch_hours_30d": 34.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10095",
+    "login_days_30d": 16,
+    "watch_hours_30d": 26.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10096",
+    "login_days_30d": 26,
+    "watch_hours_30d": 41.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10097",
+    "login_days_30d": 17,
+    "watch_hours_30d": 32.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10098",
+    "login_days_30d": 16,
+    "watch_hours_30d": 38.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10099",
+    "login_days_30d": 14,
+    "watch_hours_30d": 23.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10100",
+    "login_days_30d": 13,
+    "watch_hours_30d": 26.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10101",
+    "login_days_30d": 7,
+    "watch_hours_30d": 13.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10102",
+    "login_days_30d": 11,
+    "watch_hours_30d": 23.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10103",
+    "login_days_30d": 28,
+    "watch_hours_30d": 64.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10104",
+    "login_days_30d": 17,
+    "watch_hours_30d": 16.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10105",
+    "login_days_30d": 22,
+    "watch_hours_30d": 19.8,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10106",
+    "login_days_30d": 0,
+    "watch_hours_30d": 0.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10107",
+    "login_days_30d": 22,
+    "watch_hours_30d": 31.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10108",
+    "login_days_30d": 18,
+    "watch_hours_30d": 29.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10109",
+    "login_days_30d": 14,
+    "watch_hours_30d": 28.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10110",
+    "login_days_30d": 18,
+    "watch_hours_30d": 41.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10111",
+    "login_days_30d": 13,
+    "watch_hours_30d": 17.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10112",
+    "login_days_30d": 4,
+    "watch_hours_30d": 7.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10113",
+    "login_days_30d": 26,
+    "watch_hours_30d": 24.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10114",
+    "login_days_30d": 21,
+    "watch_hours_30d": 32.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10115",
+    "login_days_30d": 16,
+    "watch_hours_30d": 10.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10116",
+    "login_days_30d": 12,
+    "watch_hours_30d": 18.1,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10117",
+    "login_days_30d": 7,
+    "watch_hours_30d": 11.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10118",
+    "login_days_30d": 18,
+    "watch_hours_30d": 34.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10119",
+    "login_days_30d": 29,
+    "watch_hours_30d": 51.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10120",
+    "login_days_30d": 20,
+    "watch_hours_30d": 24.9,
+    "support_tickets_30d": 3,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10121",
+    "login_days_30d": 9,
+    "watch_hours_30d": 5.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10122",
+    "login_days_30d": 21,
+    "watch_hours_30d": 17.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10123",
+    "login_days_30d": 19,
+    "watch_hours_30d": 44.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10124",
+    "login_days_30d": 23,
+    "watch_hours_30d": 52.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10125",
+    "login_days_30d": 20,
+    "watch_hours_30d": 23.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10126",
+    "login_days_30d": 0,
+    "watch_hours_30d": 0.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10127",
+    "login_days_30d": 23,
+    "watch_hours_30d": 31.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10128",
+    "login_days_30d": 12,
+    "watch_hours_30d": 22.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10129",
+    "login_days_30d": 6,
+    "watch_hours_30d": 7.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10130",
+    "login_days_30d": 15,
+    "watch_hours_30d": 10.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10131",
+    "login_days_30d": 21,
+    "watch_hours_30d": 27.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10132",
+    "login_days_30d": 7,
+    "watch_hours_30d": 7.5,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10133",
+    "login_days_30d": 25,
+    "watch_hours_30d": 29.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10134",
+    "login_days_30d": 24,
+    "watch_hours_30d": 21.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10135",
+    "login_days_30d": 17,
+    "watch_hours_30d": 30.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10136",
+    "login_days_30d": 10,
+    "watch_hours_30d": 15.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10137",
+    "login_days_30d": 12,
+    "watch_hours_30d": 13.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10138",
+    "login_days_30d": 25,
+    "watch_hours_30d": 39.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10139",
+    "login_days_30d": 9,
+    "watch_hours_30d": 13.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10140",
+    "login_days_30d": 26,
+    "watch_hours_30d": 52.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10141",
+    "login_days_30d": 17,
+    "watch_hours_30d": 39.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10142",
+    "login_days_30d": 17,
+    "watch_hours_30d": 14.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10143",
+    "login_days_30d": 4,
+    "watch_hours_30d": 8.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10144",
+    "login_days_30d": 18,
+    "watch_hours_30d": 33.6,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10145",
+    "login_days_30d": 23,
+    "watch_hours_30d": 42.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10146",
+    "login_days_30d": 7,
+    "watch_hours_30d": 8.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10147",
+    "login_days_30d": 22,
+    "watch_hours_30d": 26.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10148",
+    "login_days_30d": 18,
+    "watch_hours_30d": 11.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10149",
+    "login_days_30d": 13,
+    "watch_hours_30d": 30.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10150",
+    "login_days_30d": 25,
+    "watch_hours_30d": 42.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10151",
+    "login_days_30d": 4,
+    "watch_hours_30d": 5.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10152",
+    "login_days_30d": 19,
+    "watch_hours_30d": 30.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10153",
+    "login_days_30d": 29,
+    "watch_hours_30d": 19.5,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10154",
+    "login_days_30d": 29,
+    "watch_hours_30d": 26.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10155",
+    "login_days_30d": 22,
+    "watch_hours_30d": 37.9,
+    "support_tickets_30d": 4,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10156",
+    "login_days_30d": 14,
+    "watch_hours_30d": 21.4,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10157",
+    "login_days_30d": 15,
+    "watch_hours_30d": 30.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10158",
+    "login_days_30d": 16,
+    "watch_hours_30d": 28.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10159",
+    "login_days_30d": 22,
+    "watch_hours_30d": 37.0,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10160",
+    "login_days_30d": 11,
+    "watch_hours_30d": 22.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10161",
+    "login_days_30d": 24,
+    "watch_hours_30d": 17.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10162",
+    "login_days_30d": 30,
+    "watch_hours_30d": 55.3,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10163",
+    "login_days_30d": 18,
+    "watch_hours_30d": 34.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10164",
+    "login_days_30d": 10,
+    "watch_hours_30d": 11.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10165",
+    "login_days_30d": 10,
+    "watch_hours_30d": 9.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10166",
+    "login_days_30d": 25,
+    "watch_hours_30d": 24.6,
+    "support_tickets_30d": 4,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10167",
+    "login_days_30d": 18,
+    "watch_hours_30d": 17.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10168",
+    "login_days_30d": 26,
+    "watch_hours_30d": 40.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10169",
+    "login_days_30d": 15,
+    "watch_hours_30d": 12.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10170",
+    "login_days_30d": 24,
+    "watch_hours_30d": 42.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10171",
+    "login_days_30d": 17,
+    "watch_hours_30d": 13.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10172",
+    "login_days_30d": 14,
+    "watch_hours_30d": 9.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10173",
+    "login_days_30d": 14,
+    "watch_hours_30d": 16.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10174",
+    "login_days_30d": 10,
+    "watch_hours_30d": 9.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10175",
+    "login_days_30d": 30,
+    "watch_hours_30d": 71.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10176",
+    "login_days_30d": 19,
+    "watch_hours_30d": 21.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10177",
+    "login_days_30d": 21,
+    "watch_hours_30d": 21.0,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10178",
+    "login_days_30d": 15,
+    "watch_hours_30d": 14.3,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10179",
+    "login_days_30d": 9,
+    "watch_hours_30d": 11.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10180",
+    "login_days_30d": 18,
+    "watch_hours_30d": 30.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10181",
+    "login_days_30d": 27,
+    "watch_hours_30d": 54.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10182",
+    "login_days_30d": 13,
+    "watch_hours_30d": 16.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10183",
+    "login_days_30d": 13,
+    "watch_hours_30d": 22.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10184",
+    "login_days_30d": 19,
+    "watch_hours_30d": 27.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10185",
+    "login_days_30d": 23,
+    "watch_hours_30d": 48.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10186",
+    "login_days_30d": 30,
+    "watch_hours_30d": 48.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10187",
+    "login_days_30d": 19,
+    "watch_hours_30d": 21.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10188",
+    "login_days_30d": 21,
+    "watch_hours_30d": 39.2,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10189",
+    "login_days_30d": 23,
+    "watch_hours_30d": 47.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10190",
+    "login_days_30d": 9,
+    "watch_hours_30d": 12.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10191",
+    "login_days_30d": 10,
+    "watch_hours_30d": 23.8,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10192",
+    "login_days_30d": 12,
+    "watch_hours_30d": 26.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10193",
+    "login_days_30d": 10,
+    "watch_hours_30d": 9.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10194",
+    "login_days_30d": 23,
+    "watch_hours_30d": 46.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10195",
+    "login_days_30d": 19,
+    "watch_hours_30d": 32.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10196",
+    "login_days_30d": 17,
+    "watch_hours_30d": 26.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10197",
+    "login_days_30d": 1,
+    "watch_hours_30d": 1.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10198",
+    "login_days_30d": 30,
+    "watch_hours_30d": 64.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10199",
+    "login_days_30d": 10,
+    "watch_hours_30d": 17.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10200",
+    "login_days_30d": 30,
+    "watch_hours_30d": 47.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10201",
+    "login_days_30d": 8,
+    "watch_hours_30d": 5.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10202",
+    "login_days_30d": 13,
+    "watch_hours_30d": 18.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10203",
+    "login_days_30d": 2,
+    "watch_hours_30d": 4.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10204",
+    "login_days_30d": 22,
+    "watch_hours_30d": 41.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10205",
+    "login_days_30d": 11,
+    "watch_hours_30d": 7.6,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10206",
+    "login_days_30d": 12,
+    "watch_hours_30d": 26.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10207",
+    "login_days_30d": 8,
+    "watch_hours_30d": 16.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10208",
+    "login_days_30d": 24,
+    "watch_hours_30d": 38.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10209",
+    "login_days_30d": 22,
+    "watch_hours_30d": 14.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10210",
+    "login_days_30d": 30,
+    "watch_hours_30d": 48.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10211",
+    "login_days_30d": 14,
+    "watch_hours_30d": 9.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10212",
+    "login_days_30d": 19,
+    "watch_hours_30d": 22.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10213",
+    "login_days_30d": 11,
+    "watch_hours_30d": 19.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10214",
+    "login_days_30d": 17,
+    "watch_hours_30d": 38.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10215",
+    "login_days_30d": 16,
+    "watch_hours_30d": 19.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10216",
+    "login_days_30d": 20,
+    "watch_hours_30d": 43.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10217",
+    "login_days_30d": 26,
+    "watch_hours_30d": 58.6,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10218",
+    "login_days_30d": 23,
+    "watch_hours_30d": 14.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10219",
+    "login_days_30d": 11,
+    "watch_hours_30d": 11.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10220",
+    "login_days_30d": 27,
+    "watch_hours_30d": 50.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10221",
+    "login_days_30d": 16,
+    "watch_hours_30d": 31.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10222",
+    "login_days_30d": 17,
+    "watch_hours_30d": 22.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10223",
+    "login_days_30d": 13,
+    "watch_hours_30d": 23.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10224",
+    "login_days_30d": 13,
+    "watch_hours_30d": 22.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10225",
+    "login_days_30d": 29,
+    "watch_hours_30d": 56.0,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10226",
+    "login_days_30d": 21,
+    "watch_hours_30d": 39.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10227",
+    "login_days_30d": 20,
+    "watch_hours_30d": 15.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10228",
+    "login_days_30d": 16,
+    "watch_hours_30d": 14.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10229",
+    "login_days_30d": 30,
+    "watch_hours_30d": 25.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10230",
+    "login_days_30d": 26,
+    "watch_hours_30d": 59.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10231",
+    "login_days_30d": 13,
+    "watch_hours_30d": 29.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10232",
+    "login_days_30d": 15,
+    "watch_hours_30d": 30.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10233",
+    "login_days_30d": 17,
+    "watch_hours_30d": 13.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10234",
+    "login_days_30d": 18,
+    "watch_hours_30d": 29.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10235",
+    "login_days_30d": 13,
+    "watch_hours_30d": 12.2,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10236",
+    "login_days_30d": 21,
+    "watch_hours_30d": 26.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10237",
+    "login_days_30d": 28,
+    "watch_hours_30d": 30.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10238",
+    "login_days_30d": 9,
+    "watch_hours_30d": 18.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10239",
+    "login_days_30d": 11,
+    "watch_hours_30d": 9.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10240",
+    "login_days_30d": 15,
+    "watch_hours_30d": 26.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10241",
+    "login_days_30d": 14,
+    "watch_hours_30d": 33.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10242",
+    "login_days_30d": 30,
+    "watch_hours_30d": 55.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10243",
+    "login_days_30d": 26,
+    "watch_hours_30d": 19.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10244",
+    "login_days_30d": 26,
+    "watch_hours_30d": 58.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10245",
+    "login_days_30d": 17,
+    "watch_hours_30d": 29.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10246",
+    "login_days_30d": 16,
+    "watch_hours_30d": 22.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10247",
+    "login_days_30d": 9,
+    "watch_hours_30d": 16.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10248",
+    "login_days_30d": 25,
+    "watch_hours_30d": 54.6,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10249",
+    "login_days_30d": 21,
+    "watch_hours_30d": 30.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10250",
+    "login_days_30d": 25,
+    "watch_hours_30d": 38.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10251",
+    "login_days_30d": 17,
+    "watch_hours_30d": 24.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10252",
+    "login_days_30d": 17,
+    "watch_hours_30d": 12.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10253",
+    "login_days_30d": 18,
+    "watch_hours_30d": 36.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10254",
+    "login_days_30d": 26,
+    "watch_hours_30d": 21.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10255",
+    "login_days_30d": 9,
+    "watch_hours_30d": 11.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10256",
+    "login_days_30d": 22,
+    "watch_hours_30d": 28.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10257",
+    "login_days_30d": 18,
+    "watch_hours_30d": 19.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10258",
+    "login_days_30d": 9,
+    "watch_hours_30d": 11.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10259",
+    "login_days_30d": 2,
+    "watch_hours_30d": 3.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10260",
+    "login_days_30d": 16,
+    "watch_hours_30d": 18.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10261",
+    "login_days_30d": 28,
+    "watch_hours_30d": 25.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10262",
+    "login_days_30d": 29,
+    "watch_hours_30d": 62.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10263",
+    "login_days_30d": 19,
+    "watch_hours_30d": 44.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10264",
+    "login_days_30d": 30,
+    "watch_hours_30d": 42.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10265",
+    "login_days_30d": 18,
+    "watch_hours_30d": 21.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10266",
+    "login_days_30d": 24,
+    "watch_hours_30d": 16.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10267",
+    "login_days_30d": 15,
+    "watch_hours_30d": 10.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10268",
+    "login_days_30d": 14,
+    "watch_hours_30d": 18.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10269",
+    "login_days_30d": 14,
+    "watch_hours_30d": 31.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10270",
+    "login_days_30d": 4,
+    "watch_hours_30d": 7.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10271",
+    "login_days_30d": 29,
+    "watch_hours_30d": 35.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10272",
+    "login_days_30d": 12,
+    "watch_hours_30d": 28.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10273",
+    "login_days_30d": 14,
+    "watch_hours_30d": 19.2,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10274",
+    "login_days_30d": 9,
+    "watch_hours_30d": 9.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10275",
+    "login_days_30d": 15,
+    "watch_hours_30d": 20.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10276",
+    "login_days_30d": 30,
+    "watch_hours_30d": 29.4,
+    "support_tickets_30d": 3,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10277",
+    "login_days_30d": 30,
+    "watch_hours_30d": 65.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10278",
+    "login_days_30d": 5,
+    "watch_hours_30d": 6.3,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10279",
+    "login_days_30d": 17,
+    "watch_hours_30d": 30.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10280",
+    "login_days_30d": 10,
+    "watch_hours_30d": 13.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10281",
+    "login_days_30d": 25,
+    "watch_hours_30d": 55.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10282",
+    "login_days_30d": 19,
+    "watch_hours_30d": 33.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10283",
+    "login_days_30d": 12,
+    "watch_hours_30d": 17.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10284",
+    "login_days_30d": 17,
+    "watch_hours_30d": 14.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10285",
+    "login_days_30d": 13,
+    "watch_hours_30d": 28.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10286",
+    "login_days_30d": 29,
+    "watch_hours_30d": 45.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10287",
+    "login_days_30d": 22,
+    "watch_hours_30d": 24.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10288",
+    "login_days_30d": 21,
+    "watch_hours_30d": 45.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10289",
+    "login_days_30d": 0,
+    "watch_hours_30d": 0.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10290",
+    "login_days_30d": 17,
+    "watch_hours_30d": 19.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10291",
+    "login_days_30d": 30,
+    "watch_hours_30d": 47.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10292",
+    "login_days_30d": 29,
+    "watch_hours_30d": 35.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10293",
+    "login_days_30d": 6,
+    "watch_hours_30d": 8.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10294",
+    "login_days_30d": 17,
+    "watch_hours_30d": 18.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10295",
+    "login_days_30d": 8,
+    "watch_hours_30d": 6.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10296",
+    "login_days_30d": 29,
+    "watch_hours_30d": 19.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10297",
+    "login_days_30d": 21,
+    "watch_hours_30d": 18.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10298",
+    "login_days_30d": 12,
+    "watch_hours_30d": 27.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10299",
+    "login_days_30d": 20,
+    "watch_hours_30d": 32.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10300",
+    "login_days_30d": 0,
+    "watch_hours_30d": 0.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10301",
+    "login_days_30d": 9,
+    "watch_hours_30d": 11.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10302",
+    "login_days_30d": 20,
+    "watch_hours_30d": 37.5,
+    "support_tickets_30d": 4,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10303",
+    "login_days_30d": 24,
+    "watch_hours_30d": 20.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10304",
+    "login_days_30d": 6,
+    "watch_hours_30d": 6.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10305",
+    "login_days_30d": 15,
+    "watch_hours_30d": 26.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10306",
+    "login_days_30d": 24,
+    "watch_hours_30d": 35.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10307",
+    "login_days_30d": 8,
+    "watch_hours_30d": 15.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10308",
+    "login_days_30d": 18,
+    "watch_hours_30d": 39.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10309",
+    "login_days_30d": 19,
+    "watch_hours_30d": 39.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10310",
+    "login_days_30d": 30,
+    "watch_hours_30d": 27.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10311",
+    "login_days_30d": 17,
+    "watch_hours_30d": 13.0,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10312",
+    "login_days_30d": 18,
+    "watch_hours_30d": 16.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10313",
+    "login_days_30d": 24,
+    "watch_hours_30d": 48.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10314",
+    "login_days_30d": 10,
+    "watch_hours_30d": 22.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10315",
+    "login_days_30d": 15,
+    "watch_hours_30d": 34.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10316",
+    "login_days_30d": 13,
+    "watch_hours_30d": 14.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10317",
+    "login_days_30d": 19,
+    "watch_hours_30d": 40.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10318",
+    "login_days_30d": 24,
+    "watch_hours_30d": 37.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10319",
+    "login_days_30d": 22,
+    "watch_hours_30d": 45.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10320",
+    "login_days_30d": 11,
+    "watch_hours_30d": 17.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10321",
+    "login_days_30d": 18,
+    "watch_hours_30d": 15.5,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10322",
+    "login_days_30d": 29,
+    "watch_hours_30d": 21.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10323",
+    "login_days_30d": 13,
+    "watch_hours_30d": 30.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10324",
+    "login_days_30d": 21,
+    "watch_hours_30d": 28.7,
+    "support_tickets_30d": 4,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10325",
+    "login_days_30d": 16,
+    "watch_hours_30d": 19.7,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10326",
+    "login_days_30d": 17,
+    "watch_hours_30d": 21.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10327",
+    "login_days_30d": 5,
+    "watch_hours_30d": 6.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10328",
+    "login_days_30d": 26,
+    "watch_hours_30d": 59.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10329",
+    "login_days_30d": 12,
+    "watch_hours_30d": 8.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10330",
+    "login_days_30d": 25,
+    "watch_hours_30d": 20.4,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10331",
+    "login_days_30d": 12,
+    "watch_hours_30d": 24.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10332",
+    "login_days_30d": 13,
+    "watch_hours_30d": 20.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10333",
+    "login_days_30d": 27,
+    "watch_hours_30d": 22.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10334",
+    "login_days_30d": 26,
+    "watch_hours_30d": 17.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10335",
+    "login_days_30d": 21,
+    "watch_hours_30d": 21.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10336",
+    "login_days_30d": 23,
+    "watch_hours_30d": 24.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10337",
+    "login_days_30d": 16,
+    "watch_hours_30d": 10.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10338",
+    "login_days_30d": 19,
+    "watch_hours_30d": 18.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10339",
+    "login_days_30d": 14,
+    "watch_hours_30d": 27.0,
+    "support_tickets_30d": 6,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10340",
+    "login_days_30d": 23,
+    "watch_hours_30d": 49.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10341",
+    "login_days_30d": 14,
+    "watch_hours_30d": 31.0,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10342",
+    "login_days_30d": 27,
+    "watch_hours_30d": 35.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10343",
+    "login_days_30d": 16,
+    "watch_hours_30d": 18.8,
+    "support_tickets_30d": 5,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10344",
+    "login_days_30d": 17,
+    "watch_hours_30d": 40.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10345",
+    "login_days_30d": 25,
+    "watch_hours_30d": 49.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10346",
+    "login_days_30d": 16,
+    "watch_hours_30d": 25.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10347",
+    "login_days_30d": 17,
+    "watch_hours_30d": 18.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10348",
+    "login_days_30d": 17,
+    "watch_hours_30d": 20.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10349",
+    "login_days_30d": 22,
+    "watch_hours_30d": 33.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10350",
+    "login_days_30d": 14,
+    "watch_hours_30d": 22.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10351",
+    "login_days_30d": 18,
+    "watch_hours_30d": 11.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10352",
+    "login_days_30d": 17,
+    "watch_hours_30d": 39.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10353",
+    "login_days_30d": 22,
+    "watch_hours_30d": 36.0,
+    "support_tickets_30d": 4,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10354",
+    "login_days_30d": 16,
+    "watch_hours_30d": 26.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10355",
+    "login_days_30d": 30,
+    "watch_hours_30d": 29.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10356",
+    "login_days_30d": 15,
+    "watch_hours_30d": 29.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10357",
+    "login_days_30d": 17,
+    "watch_hours_30d": 32.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10358",
+    "login_days_30d": 15,
+    "watch_hours_30d": 11.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10359",
+    "login_days_30d": 10,
+    "watch_hours_30d": 16.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10360",
+    "login_days_30d": 12,
+    "watch_hours_30d": 21.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10361",
+    "login_days_30d": 15,
+    "watch_hours_30d": 31.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10362",
+    "login_days_30d": 28,
+    "watch_hours_30d": 27.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10363",
+    "login_days_30d": 19,
+    "watch_hours_30d": 41.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10364",
+    "login_days_30d": 13,
+    "watch_hours_30d": 18.6,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10365",
+    "login_days_30d": 26,
+    "watch_hours_30d": 20.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10366",
+    "login_days_30d": 30,
+    "watch_hours_30d": 23.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10367",
+    "login_days_30d": 26,
+    "watch_hours_30d": 24.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10368",
+    "login_days_30d": 13,
+    "watch_hours_30d": 14.4,
+    "support_tickets_30d": 3,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10369",
+    "login_days_30d": 16,
+    "watch_hours_30d": 23.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10370",
+    "login_days_30d": 30,
+    "watch_hours_30d": 58.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10371",
+    "login_days_30d": 19,
+    "watch_hours_30d": 17.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10372",
+    "login_days_30d": 15,
+    "watch_hours_30d": 35.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10373",
+    "login_days_30d": 21,
+    "watch_hours_30d": 18.7,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10374",
+    "login_days_30d": 24,
+    "watch_hours_30d": 40.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10375",
+    "login_days_30d": 13,
+    "watch_hours_30d": 29.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10376",
+    "login_days_30d": 19,
+    "watch_hours_30d": 39.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10377",
+    "login_days_30d": 24,
+    "watch_hours_30d": 42.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10378",
+    "login_days_30d": 11,
+    "watch_hours_30d": 20.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10379",
+    "login_days_30d": 19,
+    "watch_hours_30d": 16.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10380",
+    "login_days_30d": 11,
+    "watch_hours_30d": 6.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10381",
+    "login_days_30d": 9,
+    "watch_hours_30d": 12.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10382",
+    "login_days_30d": 14,
+    "watch_hours_30d": 10.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10383",
+    "login_days_30d": 22,
+    "watch_hours_30d": 27.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10384",
+    "login_days_30d": 15,
+    "watch_hours_30d": 15.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10385",
+    "login_days_30d": 13,
+    "watch_hours_30d": 29.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10386",
+    "login_days_30d": 19,
+    "watch_hours_30d": 41.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10387",
+    "login_days_30d": 11,
+    "watch_hours_30d": 22.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10388",
+    "login_days_30d": 22,
+    "watch_hours_30d": 41.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10389",
+    "login_days_30d": 26,
+    "watch_hours_30d": 22.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10390",
+    "login_days_30d": 17,
+    "watch_hours_30d": 11.7,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10391",
+    "login_days_30d": 16,
+    "watch_hours_30d": 28.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10392",
+    "login_days_30d": 21,
+    "watch_hours_30d": 36.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10393",
+    "login_days_30d": 3,
+    "watch_hours_30d": 3.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10394",
+    "login_days_30d": 21,
+    "watch_hours_30d": 30.5,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10395",
+    "login_days_30d": 30,
+    "watch_hours_30d": 44.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10396",
+    "login_days_30d": 17,
+    "watch_hours_30d": 17.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10397",
+    "login_days_30d": 16,
+    "watch_hours_30d": 18.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10398",
+    "login_days_30d": 23,
+    "watch_hours_30d": 31.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10399",
+    "login_days_30d": 30,
+    "watch_hours_30d": 50.6,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10400",
+    "login_days_30d": 26,
+    "watch_hours_30d": 60.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10401",
+    "login_days_30d": 3,
+    "watch_hours_30d": 4.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10402",
+    "login_days_30d": 24,
+    "watch_hours_30d": 46.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10403",
+    "login_days_30d": 30,
+    "watch_hours_30d": 61.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10404",
+    "login_days_30d": 22,
+    "watch_hours_30d": 17.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10405",
+    "login_days_30d": 11,
+    "watch_hours_30d": 19.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10406",
+    "login_days_30d": 19,
+    "watch_hours_30d": 27.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10407",
+    "login_days_30d": 10,
+    "watch_hours_30d": 16.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10408",
+    "login_days_30d": 26,
+    "watch_hours_30d": 17.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10409",
+    "login_days_30d": 10,
+    "watch_hours_30d": 22.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10410",
+    "login_days_30d": 17,
+    "watch_hours_30d": 39.4,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10411",
+    "login_days_30d": 13,
+    "watch_hours_30d": 7.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10412",
+    "login_days_30d": 13,
+    "watch_hours_30d": 12.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10413",
+    "login_days_30d": 30,
+    "watch_hours_30d": 27.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10414",
+    "login_days_30d": 17,
+    "watch_hours_30d": 34.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10415",
+    "login_days_30d": 14,
+    "watch_hours_30d": 23.5,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10416",
+    "login_days_30d": 10,
+    "watch_hours_30d": 9.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10417",
+    "login_days_30d": 5,
+    "watch_hours_30d": 10.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10418",
+    "login_days_30d": 8,
+    "watch_hours_30d": 9.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10419",
+    "login_days_30d": 17,
+    "watch_hours_30d": 24.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10420",
+    "login_days_30d": 24,
+    "watch_hours_30d": 31.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10421",
+    "login_days_30d": 14,
+    "watch_hours_30d": 21.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10422",
+    "login_days_30d": 30,
+    "watch_hours_30d": 43.9,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10423",
+    "login_days_30d": 13,
+    "watch_hours_30d": 14.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10424",
+    "login_days_30d": 15,
+    "watch_hours_30d": 20.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10425",
+    "login_days_30d": 9,
+    "watch_hours_30d": 20.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10426",
+    "login_days_30d": 25,
+    "watch_hours_30d": 37.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10427",
+    "login_days_30d": 30,
+    "watch_hours_30d": 67.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10428",
+    "login_days_30d": 7,
+    "watch_hours_30d": 11.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10429",
+    "login_days_30d": 15,
+    "watch_hours_30d": 29.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10430",
+    "login_days_30d": 27,
+    "watch_hours_30d": 30.5,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10431",
+    "login_days_30d": 6,
+    "watch_hours_30d": 12.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10432",
+    "login_days_30d": 21,
+    "watch_hours_30d": 22.6,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10433",
+    "login_days_30d": 28,
+    "watch_hours_30d": 17.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10434",
+    "login_days_30d": 18,
+    "watch_hours_30d": 16.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10435",
+    "login_days_30d": 22,
+    "watch_hours_30d": 14.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10436",
+    "login_days_30d": 30,
+    "watch_hours_30d": 69.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10437",
+    "login_days_30d": 30,
+    "watch_hours_30d": 72.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10438",
+    "login_days_30d": 18,
+    "watch_hours_30d": 35.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10439",
+    "login_days_30d": 14,
+    "watch_hours_30d": 11.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10440",
+    "login_days_30d": 10,
+    "watch_hours_30d": 22.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10441",
+    "login_days_30d": 25,
+    "watch_hours_30d": 48.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10442",
+    "login_days_30d": 8,
+    "watch_hours_30d": 9.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10443",
+    "login_days_30d": 15,
+    "watch_hours_30d": 22.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10444",
+    "login_days_30d": 19,
+    "watch_hours_30d": 34.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10445",
+    "login_days_30d": 15,
+    "watch_hours_30d": 9.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10446",
+    "login_days_30d": 19,
+    "watch_hours_30d": 28.6,
+    "support_tickets_30d": 5,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10447",
+    "login_days_30d": 30,
+    "watch_hours_30d": 57.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10448",
+    "login_days_30d": 18,
+    "watch_hours_30d": 16.9,
+    "support_tickets_30d": 4,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10449",
+    "login_days_30d": 16,
+    "watch_hours_30d": 22.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10450",
+    "login_days_30d": 23,
+    "watch_hours_30d": 35.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10451",
+    "login_days_30d": 21,
+    "watch_hours_30d": 40.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10452",
+    "login_days_30d": 27,
+    "watch_hours_30d": 63.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10453",
+    "login_days_30d": 20,
+    "watch_hours_30d": 42.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10454",
+    "login_days_30d": 17,
+    "watch_hours_30d": 29.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10455",
+    "login_days_30d": 5,
+    "watch_hours_30d": 8.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10456",
+    "login_days_30d": 6,
+    "watch_hours_30d": 10.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10457",
+    "login_days_30d": 3,
+    "watch_hours_30d": 4.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10458",
+    "login_days_30d": 21,
+    "watch_hours_30d": 14.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10459",
+    "login_days_30d": 10,
+    "watch_hours_30d": 18.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10460",
+    "login_days_30d": 26,
+    "watch_hours_30d": 49.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10461",
+    "login_days_30d": 17,
+    "watch_hours_30d": 25.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10462",
+    "login_days_30d": 16,
+    "watch_hours_30d": 34.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10463",
+    "login_days_30d": 12,
+    "watch_hours_30d": 21.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10464",
+    "login_days_30d": 24,
+    "watch_hours_30d": 30.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10465",
+    "login_days_30d": 11,
+    "watch_hours_30d": 7.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10466",
+    "login_days_30d": 10,
+    "watch_hours_30d": 7.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10467",
+    "login_days_30d": 27,
+    "watch_hours_30d": 33.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10468",
+    "login_days_30d": 19,
+    "watch_hours_30d": 27.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10469",
+    "login_days_30d": 18,
+    "watch_hours_30d": 16.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10470",
+    "login_days_30d": 24,
+    "watch_hours_30d": 22.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10471",
+    "login_days_30d": 18,
+    "watch_hours_30d": 18.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10472",
+    "login_days_30d": 22,
+    "watch_hours_30d": 44.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10473",
+    "login_days_30d": 13,
+    "watch_hours_30d": 25.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10474",
+    "login_days_30d": 30,
+    "watch_hours_30d": 38.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10475",
+    "login_days_30d": 13,
+    "watch_hours_30d": 11.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10476",
+    "login_days_30d": 27,
+    "watch_hours_30d": 21.6,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10477",
+    "login_days_30d": 16,
+    "watch_hours_30d": 12.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10478",
+    "login_days_30d": 22,
+    "watch_hours_30d": 28.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10479",
+    "login_days_30d": 22,
+    "watch_hours_30d": 15.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10480",
+    "login_days_30d": 27,
+    "watch_hours_30d": 32.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10481",
+    "login_days_30d": 12,
+    "watch_hours_30d": 28.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10482",
+    "login_days_30d": 24,
+    "watch_hours_30d": 36.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10483",
+    "login_days_30d": 29,
+    "watch_hours_30d": 60.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10484",
+    "login_days_30d": 15,
+    "watch_hours_30d": 12.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10485",
+    "login_days_30d": 18,
+    "watch_hours_30d": 19.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10486",
+    "login_days_30d": 15,
+    "watch_hours_30d": 34.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10487",
+    "login_days_30d": 15,
+    "watch_hours_30d": 19.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10488",
+    "login_days_30d": 29,
+    "watch_hours_30d": 51.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10489",
+    "login_days_30d": 11,
+    "watch_hours_30d": 25.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10490",
+    "login_days_30d": 10,
+    "watch_hours_30d": 15.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10491",
+    "login_days_30d": 28,
+    "watch_hours_30d": 32.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10492",
+    "login_days_30d": 21,
+    "watch_hours_30d": 32.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10493",
+    "login_days_30d": 30,
+    "watch_hours_30d": 21.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10494",
+    "login_days_30d": 15,
+    "watch_hours_30d": 12.0,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10495",
+    "login_days_30d": 19,
+    "watch_hours_30d": 11.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10496",
+    "login_days_30d": 14,
+    "watch_hours_30d": 30.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10497",
+    "login_days_30d": 19,
+    "watch_hours_30d": 34.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10498",
+    "login_days_30d": 7,
+    "watch_hours_30d": 8.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10499",
+    "login_days_30d": 24,
+    "watch_hours_30d": 24.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10500",
+    "login_days_30d": 19,
+    "watch_hours_30d": 34.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10501",
+    "login_days_30d": 19,
+    "watch_hours_30d": 42.8,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10502",
+    "login_days_30d": 14,
+    "watch_hours_30d": 15.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10503",
+    "login_days_30d": 11,
+    "watch_hours_30d": 13.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10504",
+    "login_days_30d": 23,
+    "watch_hours_30d": 49.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10505",
+    "login_days_30d": 8,
+    "watch_hours_30d": 17.7,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10506",
+    "login_days_30d": 21,
+    "watch_hours_30d": 47.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10507",
+    "login_days_30d": 30,
+    "watch_hours_30d": 33.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10508",
+    "login_days_30d": 28,
+    "watch_hours_30d": 22.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10509",
+    "login_days_30d": 9,
+    "watch_hours_30d": 12.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10510",
+    "login_days_30d": 16,
+    "watch_hours_30d": 18.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10511",
+    "login_days_30d": 20,
+    "watch_hours_30d": 43.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10512",
+    "login_days_30d": 18,
+    "watch_hours_30d": 12.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10513",
+    "login_days_30d": 8,
+    "watch_hours_30d": 13.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10514",
+    "login_days_30d": 20,
+    "watch_hours_30d": 44.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10515",
+    "login_days_30d": 18,
+    "watch_hours_30d": 42.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10516",
+    "login_days_30d": 30,
+    "watch_hours_30d": 53.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10517",
+    "login_days_30d": 16,
+    "watch_hours_30d": 37.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10518",
+    "login_days_30d": 24,
+    "watch_hours_30d": 17.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10519",
+    "login_days_30d": 11,
+    "watch_hours_30d": 13.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10520",
+    "login_days_30d": 12,
+    "watch_hours_30d": 7.4,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10521",
+    "login_days_30d": 22,
+    "watch_hours_30d": 52.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10522",
+    "login_days_30d": 26,
+    "watch_hours_30d": 57.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10523",
+    "login_days_30d": 13,
+    "watch_hours_30d": 8.5,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10524",
+    "login_days_30d": 18,
+    "watch_hours_30d": 11.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10525",
+    "login_days_30d": 8,
+    "watch_hours_30d": 10.1,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10526",
+    "login_days_30d": 18,
+    "watch_hours_30d": 19.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10527",
+    "login_days_30d": 25,
+    "watch_hours_30d": 53.1,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10528",
+    "login_days_30d": 15,
+    "watch_hours_30d": 13.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10529",
+    "login_days_30d": 15,
+    "watch_hours_30d": 30.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10530",
+    "login_days_30d": 10,
+    "watch_hours_30d": 16.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10531",
+    "login_days_30d": 14,
+    "watch_hours_30d": 17.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10532",
+    "login_days_30d": 29,
+    "watch_hours_30d": 25.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10533",
+    "login_days_30d": 19,
+    "watch_hours_30d": 45.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10534",
+    "login_days_30d": 12,
+    "watch_hours_30d": 20.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10535",
+    "login_days_30d": 14,
+    "watch_hours_30d": 19.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10536",
+    "login_days_30d": 7,
+    "watch_hours_30d": 8.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10537",
+    "login_days_30d": 12,
+    "watch_hours_30d": 26.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10538",
+    "login_days_30d": 26,
+    "watch_hours_30d": 54.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10539",
+    "login_days_30d": 17,
+    "watch_hours_30d": 35.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10540",
+    "login_days_30d": 30,
+    "watch_hours_30d": 51.3,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10541",
+    "login_days_30d": 16,
+    "watch_hours_30d": 35.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10542",
+    "login_days_30d": 18,
+    "watch_hours_30d": 20.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10543",
+    "login_days_30d": 22,
+    "watch_hours_30d": 41.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10544",
+    "login_days_30d": 0,
+    "watch_hours_30d": 0.0,
+    "support_tickets_30d": 3,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10545",
+    "login_days_30d": 20,
+    "watch_hours_30d": 33.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10546",
+    "login_days_30d": 16,
+    "watch_hours_30d": 38.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10547",
+    "login_days_30d": 26,
+    "watch_hours_30d": 61.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10548",
+    "login_days_30d": 25,
+    "watch_hours_30d": 38.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10549",
+    "login_days_30d": 12,
+    "watch_hours_30d": 19.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10550",
+    "login_days_30d": 25,
+    "watch_hours_30d": 55.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10551",
+    "login_days_30d": 17,
+    "watch_hours_30d": 40.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10552",
+    "login_days_30d": 10,
+    "watch_hours_30d": 20.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10553",
+    "login_days_30d": 19,
+    "watch_hours_30d": 13.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10554",
+    "login_days_30d": 16,
+    "watch_hours_30d": 18.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10555",
+    "login_days_30d": 29,
+    "watch_hours_30d": 64.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10556",
+    "login_days_30d": 19,
+    "watch_hours_30d": 37.7,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10557",
+    "login_days_30d": 20,
+    "watch_hours_30d": 38.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10558",
+    "login_days_30d": 23,
+    "watch_hours_30d": 41.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10559",
+    "login_days_30d": 27,
+    "watch_hours_30d": 36.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10560",
+    "login_days_30d": 24,
+    "watch_hours_30d": 31.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10561",
+    "login_days_30d": 28,
+    "watch_hours_30d": 57.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10562",
+    "login_days_30d": 21,
+    "watch_hours_30d": 23.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10563",
+    "login_days_30d": 20,
+    "watch_hours_30d": 36.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10564",
+    "login_days_30d": 29,
+    "watch_hours_30d": 55.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10565",
+    "login_days_30d": 19,
+    "watch_hours_30d": 40.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10566",
+    "login_days_30d": 20,
+    "watch_hours_30d": 23.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10567",
+    "login_days_30d": 29,
+    "watch_hours_30d": 56.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10568",
+    "login_days_30d": 30,
+    "watch_hours_30d": 23.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10569",
+    "login_days_30d": 18,
+    "watch_hours_30d": 15.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10570",
+    "login_days_30d": 17,
+    "watch_hours_30d": 23.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10571",
+    "login_days_30d": 30,
+    "watch_hours_30d": 21.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10572",
+    "login_days_30d": 25,
+    "watch_hours_30d": 57.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10573",
+    "login_days_30d": 19,
+    "watch_hours_30d": 42.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10574",
+    "login_days_30d": 15,
+    "watch_hours_30d": 10.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10575",
+    "login_days_30d": 21,
+    "watch_hours_30d": 44.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10576",
+    "login_days_30d": 19,
+    "watch_hours_30d": 28.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10577",
+    "login_days_30d": 13,
+    "watch_hours_30d": 24.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10578",
+    "login_days_30d": 17,
+    "watch_hours_30d": 37.3,
+    "support_tickets_30d": 3,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10579",
+    "login_days_30d": 18,
+    "watch_hours_30d": 29.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10580",
+    "login_days_30d": 16,
+    "watch_hours_30d": 13.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10581",
+    "login_days_30d": 24,
+    "watch_hours_30d": 14.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10582",
+    "login_days_30d": 27,
+    "watch_hours_30d": 40.4,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10583",
+    "login_days_30d": 26,
+    "watch_hours_30d": 60.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10584",
+    "login_days_30d": 14,
+    "watch_hours_30d": 22.8,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10585",
+    "login_days_30d": 24,
+    "watch_hours_30d": 30.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10586",
+    "login_days_30d": 18,
+    "watch_hours_30d": 11.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10587",
+    "login_days_30d": 11,
+    "watch_hours_30d": 24.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10588",
+    "login_days_30d": 24,
+    "watch_hours_30d": 28.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10589",
+    "login_days_30d": 19,
+    "watch_hours_30d": 35.5,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10590",
+    "login_days_30d": 30,
+    "watch_hours_30d": 55.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10591",
+    "login_days_30d": 27,
+    "watch_hours_30d": 28.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10592",
+    "login_days_30d": 22,
+    "watch_hours_30d": 15.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10593",
+    "login_days_30d": 22,
+    "watch_hours_30d": 28.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10594",
+    "login_days_30d": 18,
+    "watch_hours_30d": 21.1,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10595",
+    "login_days_30d": 11,
+    "watch_hours_30d": 20.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10596",
+    "login_days_30d": 6,
+    "watch_hours_30d": 12.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10597",
+    "login_days_30d": 13,
+    "watch_hours_30d": 13.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10598",
+    "login_days_30d": 19,
+    "watch_hours_30d": 29.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10599",
+    "login_days_30d": 3,
+    "watch_hours_30d": 2.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10600",
+    "login_days_30d": 15,
+    "watch_hours_30d": 14.8,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10601",
+    "login_days_30d": 17,
+    "watch_hours_30d": 33.5,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10602",
+    "login_days_30d": 16,
+    "watch_hours_30d": 32.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10603",
+    "login_days_30d": 12,
+    "watch_hours_30d": 24.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10604",
+    "login_days_30d": 14,
+    "watch_hours_30d": 12.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10605",
+    "login_days_30d": 30,
+    "watch_hours_30d": 47.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10606",
+    "login_days_30d": 21,
+    "watch_hours_30d": 28.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10607",
+    "login_days_30d": 13,
+    "watch_hours_30d": 31.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10608",
+    "login_days_30d": 17,
+    "watch_hours_30d": 30.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10609",
+    "login_days_30d": 18,
+    "watch_hours_30d": 41.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10610",
+    "login_days_30d": 14,
+    "watch_hours_30d": 12.1,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10611",
+    "login_days_30d": 14,
+    "watch_hours_30d": 19.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10612",
+    "login_days_30d": 26,
+    "watch_hours_30d": 51.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10613",
+    "login_days_30d": 13,
+    "watch_hours_30d": 16.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10614",
+    "login_days_30d": 10,
+    "watch_hours_30d": 17.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10615",
+    "login_days_30d": 19,
+    "watch_hours_30d": 28.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10616",
+    "login_days_30d": 19,
+    "watch_hours_30d": 45.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10617",
+    "login_days_30d": 4,
+    "watch_hours_30d": 3.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10618",
+    "login_days_30d": 17,
+    "watch_hours_30d": 38.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10619",
+    "login_days_30d": 24,
+    "watch_hours_30d": 31.7,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10620",
+    "login_days_30d": 21,
+    "watch_hours_30d": 30.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10621",
+    "login_days_30d": 30,
+    "watch_hours_30d": 46.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10622",
+    "login_days_30d": 27,
+    "watch_hours_30d": 29.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10623",
+    "login_days_30d": 27,
+    "watch_hours_30d": 63.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10624",
+    "login_days_30d": 30,
+    "watch_hours_30d": 67.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10625",
+    "login_days_30d": 25,
+    "watch_hours_30d": 58.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10626",
+    "login_days_30d": 19,
+    "watch_hours_30d": 45.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10627",
+    "login_days_30d": 24,
+    "watch_hours_30d": 43.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10628",
+    "login_days_30d": 16,
+    "watch_hours_30d": 22.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10629",
+    "login_days_30d": 19,
+    "watch_hours_30d": 40.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10630",
+    "login_days_30d": 13,
+    "watch_hours_30d": 8.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10631",
+    "login_days_30d": 19,
+    "watch_hours_30d": 39.9,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10632",
+    "login_days_30d": 12,
+    "watch_hours_30d": 17.9,
+    "support_tickets_30d": 3,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10633",
+    "login_days_30d": 12,
+    "watch_hours_30d": 21.7,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10634",
+    "login_days_30d": 20,
+    "watch_hours_30d": 25.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10635",
+    "login_days_30d": 18,
+    "watch_hours_30d": 22.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10636",
+    "login_days_30d": 5,
+    "watch_hours_30d": 3.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10637",
+    "login_days_30d": 10,
+    "watch_hours_30d": 13.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10638",
+    "login_days_30d": 10,
+    "watch_hours_30d": 13.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10639",
+    "login_days_30d": 13,
+    "watch_hours_30d": 13.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10640",
+    "login_days_30d": 21,
+    "watch_hours_30d": 21.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10641",
+    "login_days_30d": 19,
+    "watch_hours_30d": 31.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10642",
+    "login_days_30d": 26,
+    "watch_hours_30d": 30.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10643",
+    "login_days_30d": 23,
+    "watch_hours_30d": 48.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10644",
+    "login_days_30d": 25,
+    "watch_hours_30d": 20.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10645",
+    "login_days_30d": 22,
+    "watch_hours_30d": 36.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10646",
+    "login_days_30d": 20,
+    "watch_hours_30d": 17.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10647",
+    "login_days_30d": 25,
+    "watch_hours_30d": 38.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10648",
+    "login_days_30d": 25,
+    "watch_hours_30d": 39.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10649",
+    "login_days_30d": 22,
+    "watch_hours_30d": 38.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10650",
+    "login_days_30d": 26,
+    "watch_hours_30d": 35.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10651",
+    "login_days_30d": 1,
+    "watch_hours_30d": 1.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10652",
+    "login_days_30d": 16,
+    "watch_hours_30d": 14.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10653",
+    "login_days_30d": 17,
+    "watch_hours_30d": 24.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10654",
+    "login_days_30d": 25,
+    "watch_hours_30d": 31.8,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10655",
+    "login_days_30d": 30,
+    "watch_hours_30d": 54.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10656",
+    "login_days_30d": 7,
+    "watch_hours_30d": 9.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10657",
+    "login_days_30d": 29,
+    "watch_hours_30d": 58.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10658",
+    "login_days_30d": 11,
+    "watch_hours_30d": 15.0,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10659",
+    "login_days_30d": 11,
+    "watch_hours_30d": 11.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10660",
+    "login_days_30d": 18,
+    "watch_hours_30d": 19.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10661",
+    "login_days_30d": 14,
+    "watch_hours_30d": 9.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10662",
+    "login_days_30d": 7,
+    "watch_hours_30d": 11.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10663",
+    "login_days_30d": 21,
+    "watch_hours_30d": 44.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10664",
+    "login_days_30d": 22,
+    "watch_hours_30d": 43.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10665",
+    "login_days_30d": 24,
+    "watch_hours_30d": 33.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10666",
+    "login_days_30d": 16,
+    "watch_hours_30d": 15.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10667",
+    "login_days_30d": 18,
+    "watch_hours_30d": 38.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10668",
+    "login_days_30d": 19,
+    "watch_hours_30d": 13.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10669",
+    "login_days_30d": 29,
+    "watch_hours_30d": 38.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10670",
+    "login_days_30d": 0,
+    "watch_hours_30d": 0.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10671",
+    "login_days_30d": 12,
+    "watch_hours_30d": 15.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10672",
+    "login_days_30d": 19,
+    "watch_hours_30d": 15.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10673",
+    "login_days_30d": 12,
+    "watch_hours_30d": 12.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10674",
+    "login_days_30d": 15,
+    "watch_hours_30d": 25.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10675",
+    "login_days_30d": 17,
+    "watch_hours_30d": 14.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10676",
+    "login_days_30d": 11,
+    "watch_hours_30d": 19.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10677",
+    "login_days_30d": 20,
+    "watch_hours_30d": 27.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10678",
+    "login_days_30d": 21,
+    "watch_hours_30d": 25.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10679",
+    "login_days_30d": 18,
+    "watch_hours_30d": 18.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10680",
+    "login_days_30d": 13,
+    "watch_hours_30d": 27.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10681",
+    "login_days_30d": 15,
+    "watch_hours_30d": 19.7,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10682",
+    "login_days_30d": 19,
+    "watch_hours_30d": 36.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10683",
+    "login_days_30d": 6,
+    "watch_hours_30d": 8.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10684",
+    "login_days_30d": 21,
+    "watch_hours_30d": 16.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10685",
+    "login_days_30d": 15,
+    "watch_hours_30d": 20.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10686",
+    "login_days_30d": 26,
+    "watch_hours_30d": 39.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10687",
+    "login_days_30d": 23,
+    "watch_hours_30d": 32.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10688",
+    "login_days_30d": 26,
+    "watch_hours_30d": 53.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10689",
+    "login_days_30d": 10,
+    "watch_hours_30d": 22.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10690",
+    "login_days_30d": 15,
+    "watch_hours_30d": 30.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10691",
+    "login_days_30d": 7,
+    "watch_hours_30d": 11.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10692",
+    "login_days_30d": 12,
+    "watch_hours_30d": 18.9,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10693",
+    "login_days_30d": 27,
+    "watch_hours_30d": 47.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10694",
+    "login_days_30d": 27,
+    "watch_hours_30d": 30.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10695",
+    "login_days_30d": 8,
+    "watch_hours_30d": 16.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10696",
+    "login_days_30d": 15,
+    "watch_hours_30d": 32.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10697",
+    "login_days_30d": 17,
+    "watch_hours_30d": 18.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10698",
+    "login_days_30d": 21,
+    "watch_hours_30d": 46.7,
+    "support_tickets_30d": 4,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10699",
+    "login_days_30d": 7,
+    "watch_hours_30d": 14.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10700",
+    "login_days_30d": 8,
+    "watch_hours_30d": 10.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10701",
+    "login_days_30d": 20,
+    "watch_hours_30d": 44.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10702",
+    "login_days_30d": 3,
+    "watch_hours_30d": 2.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10703",
+    "login_days_30d": 14,
+    "watch_hours_30d": 9.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10704",
+    "login_days_30d": 20,
+    "watch_hours_30d": 24.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10705",
+    "login_days_30d": 19,
+    "watch_hours_30d": 30.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10706",
+    "login_days_30d": 18,
+    "watch_hours_30d": 22.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10707",
+    "login_days_30d": 15,
+    "watch_hours_30d": 34.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10708",
+    "login_days_30d": 22,
+    "watch_hours_30d": 23.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10709",
+    "login_days_30d": 21,
+    "watch_hours_30d": 23.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10710",
+    "login_days_30d": 12,
+    "watch_hours_30d": 20.9,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10711",
+    "login_days_30d": 17,
+    "watch_hours_30d": 10.3,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10712",
+    "login_days_30d": 22,
+    "watch_hours_30d": 42.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10713",
+    "login_days_30d": 30,
+    "watch_hours_30d": 38.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10714",
+    "login_days_30d": 23,
+    "watch_hours_30d": 54.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10715",
+    "login_days_30d": 27,
+    "watch_hours_30d": 49.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10716",
+    "login_days_30d": 14,
+    "watch_hours_30d": 9.7,
+    "support_tickets_30d": 5,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10717",
+    "login_days_30d": 15,
+    "watch_hours_30d": 11.5,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10718",
+    "login_days_30d": 15,
+    "watch_hours_30d": 11.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10719",
+    "login_days_30d": 17,
+    "watch_hours_30d": 39.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10720",
+    "login_days_30d": 10,
+    "watch_hours_30d": 18.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10721",
+    "login_days_30d": 28,
+    "watch_hours_30d": 38.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10722",
+    "login_days_30d": 24,
+    "watch_hours_30d": 23.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10723",
+    "login_days_30d": 14,
+    "watch_hours_30d": 30.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10724",
+    "login_days_30d": 24,
+    "watch_hours_30d": 23.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10725",
+    "login_days_30d": 19,
+    "watch_hours_30d": 35.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10726",
+    "login_days_30d": 22,
+    "watch_hours_30d": 43.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10727",
+    "login_days_30d": 10,
+    "watch_hours_30d": 11.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10728",
+    "login_days_30d": 18,
+    "watch_hours_30d": 27.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10729",
+    "login_days_30d": 19,
+    "watch_hours_30d": 19.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10730",
+    "login_days_30d": 23,
+    "watch_hours_30d": 29.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10731",
+    "login_days_30d": 15,
+    "watch_hours_30d": 35.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10732",
+    "login_days_30d": 0,
+    "watch_hours_30d": 0.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10733",
+    "login_days_30d": 11,
+    "watch_hours_30d": 23.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10734",
+    "login_days_30d": 17,
+    "watch_hours_30d": 26.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10735",
+    "login_days_30d": 18,
+    "watch_hours_30d": 18.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10736",
+    "login_days_30d": 29,
+    "watch_hours_30d": 54.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10737",
+    "login_days_30d": 21,
+    "watch_hours_30d": 31.5,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10738",
+    "login_days_30d": 18,
+    "watch_hours_30d": 16.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10739",
+    "login_days_30d": 19,
+    "watch_hours_30d": 25.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10740",
+    "login_days_30d": 26,
+    "watch_hours_30d": 45.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10741",
+    "login_days_30d": 13,
+    "watch_hours_30d": 25.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10742",
+    "login_days_30d": 17,
+    "watch_hours_30d": 17.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10743",
+    "login_days_30d": 10,
+    "watch_hours_30d": 21.8,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10744",
+    "login_days_30d": 27,
+    "watch_hours_30d": 34.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10745",
+    "login_days_30d": 21,
+    "watch_hours_30d": 22.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10746",
+    "login_days_30d": 14,
+    "watch_hours_30d": 13.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10747",
+    "login_days_30d": 16,
+    "watch_hours_30d": 32.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10748",
+    "login_days_30d": 22,
+    "watch_hours_30d": 27.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10749",
+    "login_days_30d": 17,
+    "watch_hours_30d": 25.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10750",
+    "login_days_30d": 14,
+    "watch_hours_30d": 14.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10751",
+    "login_days_30d": 13,
+    "watch_hours_30d": 23.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10752",
+    "login_days_30d": 21,
+    "watch_hours_30d": 42.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10753",
+    "login_days_30d": 17,
+    "watch_hours_30d": 20.6,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10754",
+    "login_days_30d": 14,
+    "watch_hours_30d": 32.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10755",
+    "login_days_30d": 9,
+    "watch_hours_30d": 5.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10756",
+    "login_days_30d": 19,
+    "watch_hours_30d": 15.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10757",
+    "login_days_30d": 16,
+    "watch_hours_30d": 26.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10758",
+    "login_days_30d": 15,
+    "watch_hours_30d": 27.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10759",
+    "login_days_30d": 21,
+    "watch_hours_30d": 22.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10760",
+    "login_days_30d": 23,
+    "watch_hours_30d": 36.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10761",
+    "login_days_30d": 23,
+    "watch_hours_30d": 27.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10762",
+    "login_days_30d": 21,
+    "watch_hours_30d": 33.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10763",
+    "login_days_30d": 18,
+    "watch_hours_30d": 32.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10764",
+    "login_days_30d": 14,
+    "watch_hours_30d": 32.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10765",
+    "login_days_30d": 12,
+    "watch_hours_30d": 17.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10766",
+    "login_days_30d": 14,
+    "watch_hours_30d": 24.7,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10767",
+    "login_days_30d": 18,
+    "watch_hours_30d": 29.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10768",
+    "login_days_30d": 12,
+    "watch_hours_30d": 14.1,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10769",
+    "login_days_30d": 19,
+    "watch_hours_30d": 20.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10770",
+    "login_days_30d": 13,
+    "watch_hours_30d": 30.9,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10771",
+    "login_days_30d": 5,
+    "watch_hours_30d": 4.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10772",
+    "login_days_30d": 25,
+    "watch_hours_30d": 50.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10773",
+    "login_days_30d": 16,
+    "watch_hours_30d": 13.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10774",
+    "login_days_30d": 11,
+    "watch_hours_30d": 22.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10775",
+    "login_days_30d": 9,
+    "watch_hours_30d": 8.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10776",
+    "login_days_30d": 22,
+    "watch_hours_30d": 51.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10777",
+    "login_days_30d": 29,
+    "watch_hours_30d": 53.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10778",
+    "login_days_30d": 15,
+    "watch_hours_30d": 11.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10779",
+    "login_days_30d": 17,
+    "watch_hours_30d": 31.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10780",
+    "login_days_30d": 27,
+    "watch_hours_30d": 45.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10781",
+    "login_days_30d": 5,
+    "watch_hours_30d": 6.0,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10782",
+    "login_days_30d": 30,
+    "watch_hours_30d": 32.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10783",
+    "login_days_30d": 30,
+    "watch_hours_30d": 56.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10784",
+    "login_days_30d": 0,
+    "watch_hours_30d": 0.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10785",
+    "login_days_30d": 17,
+    "watch_hours_30d": 20.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10786",
+    "login_days_30d": 13,
+    "watch_hours_30d": 28.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10787",
+    "login_days_30d": 16,
+    "watch_hours_30d": 17.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10788",
+    "login_days_30d": 14,
+    "watch_hours_30d": 10.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10789",
+    "login_days_30d": 24,
+    "watch_hours_30d": 40.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10790",
+    "login_days_30d": 18,
+    "watch_hours_30d": 14.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10791",
+    "login_days_30d": 10,
+    "watch_hours_30d": 11.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10792",
+    "login_days_30d": 17,
+    "watch_hours_30d": 25.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10793",
+    "login_days_30d": 20,
+    "watch_hours_30d": 22.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10794",
+    "login_days_30d": 9,
+    "watch_hours_30d": 8.9,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10795",
+    "login_days_30d": 8,
+    "watch_hours_30d": 14.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10796",
+    "login_days_30d": 30,
+    "watch_hours_30d": 47.5,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10797",
+    "login_days_30d": 14,
+    "watch_hours_30d": 29.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10798",
+    "login_days_30d": 18,
+    "watch_hours_30d": 29.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10799",
+    "login_days_30d": 16,
+    "watch_hours_30d": 23.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10800",
+    "login_days_30d": 23,
+    "watch_hours_30d": 24.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10801",
+    "login_days_30d": 30,
+    "watch_hours_30d": 60.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10802",
+    "login_days_30d": 22,
+    "watch_hours_30d": 21.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10803",
+    "login_days_30d": 8,
+    "watch_hours_30d": 8.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10804",
+    "login_days_30d": 7,
+    "watch_hours_30d": 14.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10805",
+    "login_days_30d": 17,
+    "watch_hours_30d": 32.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10806",
+    "login_days_30d": 15,
+    "watch_hours_30d": 25.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10807",
+    "login_days_30d": 7,
+    "watch_hours_30d": 4.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10808",
+    "login_days_30d": 25,
+    "watch_hours_30d": 20.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10809",
+    "login_days_30d": 9,
+    "watch_hours_30d": 13.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10810",
+    "login_days_30d": 29,
+    "watch_hours_30d": 56.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10811",
+    "login_days_30d": 30,
+    "watch_hours_30d": 43.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10812",
+    "login_days_30d": 17,
+    "watch_hours_30d": 10.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10813",
+    "login_days_30d": 20,
+    "watch_hours_30d": 18.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10814",
+    "login_days_30d": 11,
+    "watch_hours_30d": 18.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10815",
+    "login_days_30d": 22,
+    "watch_hours_30d": 40.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10816",
+    "login_days_30d": 13,
+    "watch_hours_30d": 8.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10817",
+    "login_days_30d": 9,
+    "watch_hours_30d": 6.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10818",
+    "login_days_30d": 17,
+    "watch_hours_30d": 18.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10819",
+    "login_days_30d": 14,
+    "watch_hours_30d": 10.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10820",
+    "login_days_30d": 15,
+    "watch_hours_30d": 23.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10821",
+    "login_days_30d": 26,
+    "watch_hours_30d": 21.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10822",
+    "login_days_30d": 11,
+    "watch_hours_30d": 19.4,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10823",
+    "login_days_30d": 29,
+    "watch_hours_30d": 58.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10824",
+    "login_days_30d": 9,
+    "watch_hours_30d": 21.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10825",
+    "login_days_30d": 27,
+    "watch_hours_30d": 62.3,
+    "support_tickets_30d": 3,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10826",
+    "login_days_30d": 10,
+    "watch_hours_30d": 10.9,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10827",
+    "login_days_30d": 20,
+    "watch_hours_30d": 13.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10828",
+    "login_days_30d": 16,
+    "watch_hours_30d": 19.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10829",
+    "login_days_30d": 17,
+    "watch_hours_30d": 31.9,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10830",
+    "login_days_30d": 23,
+    "watch_hours_30d": 16.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10831",
+    "login_days_30d": 27,
+    "watch_hours_30d": 33.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10832",
+    "login_days_30d": 28,
+    "watch_hours_30d": 31.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10833",
+    "login_days_30d": 15,
+    "watch_hours_30d": 14.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10834",
+    "login_days_30d": 20,
+    "watch_hours_30d": 37.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10835",
+    "login_days_30d": 11,
+    "watch_hours_30d": 19.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10836",
+    "login_days_30d": 12,
+    "watch_hours_30d": 18.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10837",
+    "login_days_30d": 10,
+    "watch_hours_30d": 22.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10838",
+    "login_days_30d": 17,
+    "watch_hours_30d": 13.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10839",
+    "login_days_30d": 18,
+    "watch_hours_30d": 15.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10840",
+    "login_days_30d": 4,
+    "watch_hours_30d": 5.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10841",
+    "login_days_30d": 20,
+    "watch_hours_30d": 35.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10842",
+    "login_days_30d": 28,
+    "watch_hours_30d": 46.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10843",
+    "login_days_30d": 26,
+    "watch_hours_30d": 19.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10844",
+    "login_days_30d": 13,
+    "watch_hours_30d": 30.2,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10845",
+    "login_days_30d": 9,
+    "watch_hours_30d": 10.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10846",
+    "login_days_30d": 20,
+    "watch_hours_30d": 24.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10847",
+    "login_days_30d": 2,
+    "watch_hours_30d": 3.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10848",
+    "login_days_30d": 27,
+    "watch_hours_30d": 62.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10849",
+    "login_days_30d": 17,
+    "watch_hours_30d": 30.5,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10850",
+    "login_days_30d": 30,
+    "watch_hours_30d": 69.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10851",
+    "login_days_30d": 5,
+    "watch_hours_30d": 4.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10852",
+    "login_days_30d": 24,
+    "watch_hours_30d": 41.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10853",
+    "login_days_30d": 19,
+    "watch_hours_30d": 39.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10854",
+    "login_days_30d": 15,
+    "watch_hours_30d": 22.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10855",
+    "login_days_30d": 9,
+    "watch_hours_30d": 11.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10856",
+    "login_days_30d": 22,
+    "watch_hours_30d": 52.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10857",
+    "login_days_30d": 22,
+    "watch_hours_30d": 18.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10858",
+    "login_days_30d": 30,
+    "watch_hours_30d": 40.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10859",
+    "login_days_30d": 24,
+    "watch_hours_30d": 52.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10860",
+    "login_days_30d": 13,
+    "watch_hours_30d": 28.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10861",
+    "login_days_30d": 11,
+    "watch_hours_30d": 26.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10862",
+    "login_days_30d": 9,
+    "watch_hours_30d": 19.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10863",
+    "login_days_30d": 30,
+    "watch_hours_30d": 20.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10864",
+    "login_days_30d": 13,
+    "watch_hours_30d": 29.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10865",
+    "login_days_30d": 29,
+    "watch_hours_30d": 39.8,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10866",
+    "login_days_30d": 23,
+    "watch_hours_30d": 40.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10867",
+    "login_days_30d": 19,
+    "watch_hours_30d": 24.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10868",
+    "login_days_30d": 15,
+    "watch_hours_30d": 31.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10869",
+    "login_days_30d": 23,
+    "watch_hours_30d": 37.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10870",
+    "login_days_30d": 18,
+    "watch_hours_30d": 38.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10871",
+    "login_days_30d": 16,
+    "watch_hours_30d": 15.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10872",
+    "login_days_30d": 22,
+    "watch_hours_30d": 20.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10873",
+    "login_days_30d": 18,
+    "watch_hours_30d": 25.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10874",
+    "login_days_30d": 12,
+    "watch_hours_30d": 7.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10875",
+    "login_days_30d": 24,
+    "watch_hours_30d": 44.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10876",
+    "login_days_30d": 18,
+    "watch_hours_30d": 20.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10877",
+    "login_days_30d": 23,
+    "watch_hours_30d": 36.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10878",
+    "login_days_30d": 15,
+    "watch_hours_30d": 10.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10879",
+    "login_days_30d": 10,
+    "watch_hours_30d": 9.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10880",
+    "login_days_30d": 29,
+    "watch_hours_30d": 49.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10881",
+    "login_days_30d": 28,
+    "watch_hours_30d": 32.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10882",
+    "login_days_30d": 26,
+    "watch_hours_30d": 25.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10883",
+    "login_days_30d": 15,
+    "watch_hours_30d": 15.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10884",
+    "login_days_30d": 14,
+    "watch_hours_30d": 13.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10885",
+    "login_days_30d": 27,
+    "watch_hours_30d": 46.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10886",
+    "login_days_30d": 16,
+    "watch_hours_30d": 14.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10887",
+    "login_days_30d": 14,
+    "watch_hours_30d": 17.5,
+    "support_tickets_30d": 3,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10888",
+    "login_days_30d": 30,
+    "watch_hours_30d": 55.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10889",
+    "login_days_30d": 19,
+    "watch_hours_30d": 29.0,
+    "support_tickets_30d": 4,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10890",
+    "login_days_30d": 30,
+    "watch_hours_30d": 50.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10891",
+    "login_days_30d": 8,
+    "watch_hours_30d": 8.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10892",
+    "login_days_30d": 23,
+    "watch_hours_30d": 52.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10893",
+    "login_days_30d": 30,
+    "watch_hours_30d": 40.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10894",
+    "login_days_30d": 19,
+    "watch_hours_30d": 21.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10895",
+    "login_days_30d": 16,
+    "watch_hours_30d": 35.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10896",
+    "login_days_30d": 11,
+    "watch_hours_30d": 19.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10897",
+    "login_days_30d": 27,
+    "watch_hours_30d": 46.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10898",
+    "login_days_30d": 13,
+    "watch_hours_30d": 28.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10899",
+    "login_days_30d": 18,
+    "watch_hours_30d": 12.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10900",
+    "login_days_30d": 10,
+    "watch_hours_30d": 21.1,
+    "support_tickets_30d": 4,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10901",
+    "login_days_30d": 29,
+    "watch_hours_30d": 52.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10902",
+    "login_days_30d": 25,
+    "watch_hours_30d": 31.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10903",
+    "login_days_30d": 17,
+    "watch_hours_30d": 18.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10904",
+    "login_days_30d": 11,
+    "watch_hours_30d": 8.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10905",
+    "login_days_30d": 29,
+    "watch_hours_30d": 66.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10906",
+    "login_days_30d": 14,
+    "watch_hours_30d": 12.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10907",
+    "login_days_30d": 12,
+    "watch_hours_30d": 12.8,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10908",
+    "login_days_30d": 8,
+    "watch_hours_30d": 14.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10909",
+    "login_days_30d": 14,
+    "watch_hours_30d": 26.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10910",
+    "login_days_30d": 7,
+    "watch_hours_30d": 6.2,
+    "support_tickets_30d": 4,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10911",
+    "login_days_30d": 15,
+    "watch_hours_30d": 31.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10912",
+    "login_days_30d": 22,
+    "watch_hours_30d": 33.4,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10913",
+    "login_days_30d": 15,
+    "watch_hours_30d": 31.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10914",
+    "login_days_30d": 22,
+    "watch_hours_30d": 16.7,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10915",
+    "login_days_30d": 13,
+    "watch_hours_30d": 8.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10916",
+    "login_days_30d": 17,
+    "watch_hours_30d": 29.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10917",
+    "login_days_30d": 30,
+    "watch_hours_30d": 26.1,
+    "support_tickets_30d": 5,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10918",
+    "login_days_30d": 15,
+    "watch_hours_30d": 23.2,
+    "support_tickets_30d": 2,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10919",
+    "login_days_30d": 21,
+    "watch_hours_30d": 13.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10920",
+    "login_days_30d": 8,
+    "watch_hours_30d": 16.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10921",
+    "login_days_30d": 28,
+    "watch_hours_30d": 62.1,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10922",
+    "login_days_30d": 13,
+    "watch_hours_30d": 27.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10923",
+    "login_days_30d": 26,
+    "watch_hours_30d": 60.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10924",
+    "login_days_30d": 16,
+    "watch_hours_30d": 35.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10925",
+    "login_days_30d": 21,
+    "watch_hours_30d": 29.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10926",
+    "login_days_30d": 23,
+    "watch_hours_30d": 30.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10927",
+    "login_days_30d": 15,
+    "watch_hours_30d": 33.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10928",
+    "login_days_30d": 25,
+    "watch_hours_30d": 56.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10929",
+    "login_days_30d": 12,
+    "watch_hours_30d": 28.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10930",
+    "login_days_30d": 22,
+    "watch_hours_30d": 43.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10931",
+    "login_days_30d": 15,
+    "watch_hours_30d": 14.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10932",
+    "login_days_30d": 19,
+    "watch_hours_30d": 43.7,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10933",
+    "login_days_30d": 13,
+    "watch_hours_30d": 30.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10934",
+    "login_days_30d": 18,
+    "watch_hours_30d": 32.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10935",
+    "login_days_30d": 9,
+    "watch_hours_30d": 19.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10936",
+    "login_days_30d": 19,
+    "watch_hours_30d": 30.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10937",
+    "login_days_30d": 19,
+    "watch_hours_30d": 43.7,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10938",
+    "login_days_30d": 12,
+    "watch_hours_30d": 9.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10939",
+    "login_days_30d": 18,
+    "watch_hours_30d": 38.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10940",
+    "login_days_30d": 19,
+    "watch_hours_30d": 13.3,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10941",
+    "login_days_30d": 14,
+    "watch_hours_30d": 16.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10942",
+    "login_days_30d": 18,
+    "watch_hours_30d": 15.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10943",
+    "login_days_30d": 12,
+    "watch_hours_30d": 17.5,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10944",
+    "login_days_30d": 30,
+    "watch_hours_30d": 30.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10945",
+    "login_days_30d": 24,
+    "watch_hours_30d": 55.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10946",
+    "login_days_30d": 19,
+    "watch_hours_30d": 30.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10947",
+    "login_days_30d": 27,
+    "watch_hours_30d": 59.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10948",
+    "login_days_30d": 6,
+    "watch_hours_30d": 6.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10949",
+    "login_days_30d": 2,
+    "watch_hours_30d": 1.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10950",
+    "login_days_30d": 15,
+    "watch_hours_30d": 29.9,
+    "support_tickets_30d": 4,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10951",
+    "login_days_30d": 8,
+    "watch_hours_30d": 14.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10952",
+    "login_days_30d": 16,
+    "watch_hours_30d": 25.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10953",
+    "login_days_30d": 18,
+    "watch_hours_30d": 37.2,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10954",
+    "login_days_30d": 24,
+    "watch_hours_30d": 50.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10955",
+    "login_days_30d": 10,
+    "watch_hours_30d": 16.6,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10956",
+    "login_days_30d": 20,
+    "watch_hours_30d": 46.8,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10957",
+    "login_days_30d": 19,
+    "watch_hours_30d": 36.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10958",
+    "login_days_30d": 22,
+    "watch_hours_30d": 40.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10959",
+    "login_days_30d": 14,
+    "watch_hours_30d": 17.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10960",
+    "login_days_30d": 29,
+    "watch_hours_30d": 17.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10961",
+    "login_days_30d": 16,
+    "watch_hours_30d": 16.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10962",
+    "login_days_30d": 30,
+    "watch_hours_30d": 59.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10963",
+    "login_days_30d": 13,
+    "watch_hours_30d": 24.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10964",
+    "login_days_30d": 22,
+    "watch_hours_30d": 26.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10965",
+    "login_days_30d": 18,
+    "watch_hours_30d": 31.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10966",
+    "login_days_30d": 15,
+    "watch_hours_30d": 14.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10967",
+    "login_days_30d": 24,
+    "watch_hours_30d": 25.8,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10968",
+    "login_days_30d": 15,
+    "watch_hours_30d": 34.6,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10969",
+    "login_days_30d": 0,
+    "watch_hours_30d": 0.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10970",
+    "login_days_30d": 0,
+    "watch_hours_30d": 0.0,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10971",
+    "login_days_30d": 26,
+    "watch_hours_30d": 38.4,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10972",
+    "login_days_30d": 26,
+    "watch_hours_30d": 33.7,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10973",
+    "login_days_30d": 30,
+    "watch_hours_30d": 57.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10974",
+    "login_days_30d": 18,
+    "watch_hours_30d": 42.0,
+    "support_tickets_30d": 2,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10975",
+    "login_days_30d": 9,
+    "watch_hours_30d": 15.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10976",
+    "login_days_30d": 14,
+    "watch_hours_30d": 23.3,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10977",
+    "login_days_30d": 17,
+    "watch_hours_30d": 21.4,
+    "support_tickets_30d": 3,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10978",
+    "login_days_30d": 13,
+    "watch_hours_30d": 21.0,
+    "support_tickets_30d": 3,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10979",
+    "login_days_30d": 29,
+    "watch_hours_30d": 34.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10980",
+    "login_days_30d": 30,
+    "watch_hours_30d": 18.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10981",
+    "login_days_30d": 21,
+    "watch_hours_30d": 45.3,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10982",
+    "login_days_30d": 16,
+    "watch_hours_30d": 22.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10983",
+    "login_days_30d": 8,
+    "watch_hours_30d": 11.9,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10984",
+    "login_days_30d": 30,
+    "watch_hours_30d": 22.5,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10985",
+    "login_days_30d": 18,
+    "watch_hours_30d": 37.9,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10986",
+    "login_days_30d": 17,
+    "watch_hours_30d": 15.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10987",
+    "login_days_30d": 21,
+    "watch_hours_30d": 28.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10988",
+    "login_days_30d": 13,
+    "watch_hours_30d": 27.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10989",
+    "login_days_30d": 20,
+    "watch_hours_30d": 28.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10990",
+    "login_days_30d": 8,
+    "watch_hours_30d": 18.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10991",
+    "login_days_30d": 25,
+    "watch_hours_30d": 24.4,
+    "support_tickets_30d": 1,
+    "last_active_device": "mobile"
+  },
+  {
+    "customer_id": "CUST-10992",
+    "login_days_30d": 16,
+    "watch_hours_30d": 30.2,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10993",
+    "login_days_30d": 28,
+    "watch_hours_30d": 66.1,
+    "support_tickets_30d": 4,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10994",
+    "login_days_30d": 15,
+    "watch_hours_30d": 23.8,
+    "support_tickets_30d": 1,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10995",
+    "login_days_30d": 19,
+    "watch_hours_30d": 35.1,
+    "support_tickets_30d": 2,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10996",
+    "login_days_30d": 9,
+    "watch_hours_30d": 11.8,
+    "support_tickets_30d": 3,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-10997",
+    "login_days_30d": 25,
+    "watch_hours_30d": 48.8,
+    "support_tickets_30d": 0,
+    "last_active_device": "tablet"
+  },
+  {
+    "customer_id": "CUST-10998",
+    "login_days_30d": 11,
+    "watch_hours_30d": 24.6,
+    "support_tickets_30d": 0,
+    "last_active_device": "smart_tv"
+  },
+  {
+    "customer_id": "CUST-10999",
+    "login_days_30d": 15,
+    "watch_hours_30d": 28.0,
+    "support_tickets_30d": 1,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-11000",
+    "login_days_30d": 18,
+    "watch_hours_30d": 41.1,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  },
+  {
+    "customer_id": "CUST-99998",
+    "login_days_30d": 4,
+    "watch_hours_30d": 3.5,
+    "support_tickets_30d": 0,
+    "last_active_device": "web"
+  }
+]
